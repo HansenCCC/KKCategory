@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'KKCategory_Example' do
+  pod 'KKCategory', :path => '../'
+
+  target 'KKCategory_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
