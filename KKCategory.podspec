@@ -8,8 +8,8 @@
 
 Pod::Spec.new do |s|
   s.name             = 'KKCategory'
-  s.version          = '1.0.0'
-  s.summary          = 'A short description of KKCategory.'
+  s.version          = '1.0.1'
+  s.summary          = 'iOS一些常用的分类'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
